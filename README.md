@@ -1,7 +1,5 @@
 # VOICE-CONTROLLED-CHATBOT
 This project is a voice-controlled chatbot that interacts with the Flow GPT website. It uses speech recognition to interpret voice commands, converts them into text, and automates browser actions using Selenium. The chatbot responds to the user through a text-to-speech engine.
-Developed a voice-controlled chatbot using Selenium and Speech Recognition for web automation and natural language processing.
-
 ## Features
 
 - **Voice Recognition**: Recognizes spoken words using the `speech_recognition` library.
